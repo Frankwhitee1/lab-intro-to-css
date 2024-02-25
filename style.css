@@ -1,0 +1,13 @@
+body{
+    background-color:blue;
+}
+
+h1, p{
+    color: rgb(182, 239, 68);
+    font-family: fantasy;
+    font-weight: bold;
+}
+
+li {
+    text-align: center;
+}
