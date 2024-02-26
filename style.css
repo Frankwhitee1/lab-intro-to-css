@@ -1,13 +1,43 @@
 body{
-    background-color:blue;
+    background-color: green;
+    font-family:  sans-serif;
+    
+    
 }
 
-h1, p{
-    color: rgb(182, 239, 68);
+h1{
+    color: purple;
     font-family: fantasy;
     font-weight: bold;
 }
 
+ol {
+    font-weight: bold
+    
+}
+
 li {
     text-align: center;
+    color: blue;
+    border: 1px solid red;
+    background-color: lightpink;
+    font-family: fantasy;
+    font-weight: bold;
+    border-radius: 10px
 }
+
+ul li {
+    list-style-type: none;
+}
+
+img {
+    margin: auto;
+    display: block;
+    width: 200px;
+    height: 200px;
+}
+
+ol li {
+   list-style-position: inside ;
+}
+
